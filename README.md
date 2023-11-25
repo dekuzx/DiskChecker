@@ -2,7 +2,7 @@
 
 ## Overview
 
-DiskInspector is a lightweight and intuitive tool designed to provide essential information about the disks in your computer. Quickly analyze the file system and identify the drive letter associated with each disk, helping you manage your storage effectively.
+DiskChecker is a lightweight and intuitive tool designed to provide essential information about the disks in your computer. Quickly analyze the file system and identify the drive letter associated with each disk, helping you manage your storage effectively.
 
 ## Features
 
