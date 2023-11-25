@@ -1,0 +1,4 @@
+﻿  USNJournal.cpp
+USNJournal.obj : error LNK2001: simbolo esterno "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z) non risolto
+USNJournal.obj : error LNK2001: simbolo esterno "wchar_t * __stdcall _com_util::ConvertStringToBSTR(char const *)" (?ConvertStringToBSTR@_com_util@@YGPA_WPBD@Z) non risolto
+C:\Users\Utente\source\repos\main\Release\USNJournal.exe : fatal error LNK1120: 2 esterni non risolti
