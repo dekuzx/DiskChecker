@@ -16,5 +16,6 @@ DiskInspector is a lightweight and intuitive tool designed to provide essential 
 
    ```bash
    git clone https://github.com/yourname/DiskInspector.git
+   ```
 
    Showcase: https://streamable.com/ebw885
