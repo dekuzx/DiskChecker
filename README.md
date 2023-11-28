@@ -15,7 +15,7 @@ DiskChecker is a lightweight and intuitive tool designed to provide essential in
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourname/DiskInspector.git
+   git clone https://github.com/dekuzx/DiskInspector.git
    ```
 
    Showcase: https://streamable.com/ebw885
